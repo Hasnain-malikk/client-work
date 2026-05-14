@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
