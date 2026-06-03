@@ -221,24 +221,34 @@ header .navbar ul li a:hover {
 .home .image img:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
+#polo{
+  font-family: initial;
+  font-size: 4rem;
+  color: #002057;
+
+}
 .home .content h2 {
-  font-size: 5rem;
+  font-family: initial;
+  font-size: 4rem;
   font-weight: 800;
   color: #002057;
+  /* font-family: 'Italianno', cursive; */
 }
 .home .content h2 span {
-  font-size: 5rem;
+  font-family: initial;
+  font-size: 4rem;
   font-weight: 800;
   color: #ff7b00;
 }
 .home .content p {
-  font-size: 2.5rem;
+   font-family: 'Italianno', cursive;
+  font-size: 3.5rem;
   color: #000;
-  font-weight: 600;
+  font-weight: 800;
   padding: 1rem 0;
 }
 .home .content p span {
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   color: rgb(148, 8, 8);
   font-weight: 600;
   padding: 1rem 0;
