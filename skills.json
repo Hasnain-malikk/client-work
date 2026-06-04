@@ -1,74 +1,74 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "adobe photoshop",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/ps.png"
     },
     {
-        "name": "TailwindCSS",
-        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/TailwindCSS.png"
+        "name": "adobe illustrator",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/ai.png"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "canva",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/canva.png"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "name": "CLO 3D",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/clo.png"
     },
     {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+        "name": "coreldraw",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/coral.png"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "name": "Colour theory",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/clr.png"
     },
     {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "name": "Drapping",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/drapping.png"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "name": "garment design",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/garment.png"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "name": "fashion illustraion",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/illustration.png"
     },
     {
-        "name": "GSAP",
-        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/gsap.jpg"
+        "name": "team leadership",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/leadership.png"
     },
     {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "name": "mood board",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/mood.png"
     },
     {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+        "name": "pattern making",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/pattern.png"
     },
     {
-        "name": "Solidity",
-        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/solidity.png"
+        "name": "Pintrest",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/pintrest.png"
     },
     {
-        "name": "Web 3.0",
-        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/Web%203.0.png"
+        "name": "technical sketching",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/technical.png"
     },
     {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+        "name": "textile design",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/textile.png"
     },
     {
-        "name": "DSA",
-        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/dsa.png"
+        "name": "MS powerpoint",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/pp.png"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "name": "MS word",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/word.png"
     },
     {
-        "name": "ML",
-        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/logo/main/ML.png"
+        "name": "MS Excel",
+        "icon": "https://raw.githubusercontent.com/Hasnain-malikk/icons-mah/main/xl.png"
     }            
 ]
