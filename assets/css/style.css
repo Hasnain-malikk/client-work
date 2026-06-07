@@ -22,7 +22,7 @@ body {
 }
 
 *::selection {
-  background: #2b3dda;
+  background: #6F4827;
   color: #fff;
 }
 
@@ -109,7 +109,7 @@ header .navbar li {
 }
 header .navbar ul li a {
   font-size: 1.57rem;
-  color: #0e2431;
+  color: black;
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.04rem;
@@ -117,8 +117,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #011aff;
-  border-bottom: 0.2rem solid #011aff;
+  color: #6F4827;
+  border-bottom: 0.2rem solid #6F4827;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -167,7 +167,7 @@ header .navbar ul li a:hover {
     padding: 1rem;
     color: #fff;
     border-radius: 0.5rem;
-    border-bottom: 0.5rem solid #011aff;
+    border-bottom: 0.5rem solid #6F4827;
   }
   .fa-times {
     transform: rotate(180deg);
