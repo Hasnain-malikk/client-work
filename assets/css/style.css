@@ -224,7 +224,7 @@ header .navbar ul li a:hover {
 #polo{
   font-family:"Poppins";
   font-size: 4rem;
-  color: black;
+  color: #002057;
 
 }
 .home .content h2 {
@@ -232,7 +232,7 @@ header .navbar ul li a:hover {
   font-family: "Poppins";
   font-size: 4rem;
   font-weight: 800;
-  color: black;
+  color: #002057;
   /* font-family: 'Italianno', cursive; */
 }
 .home .content h2 span {
@@ -254,7 +254,7 @@ header .navbar ul li a:hover {
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: #2506ad;
+  color: #940808;
   font-weight: 600;
   padding: 1rem 0;
 }
@@ -270,9 +270,12 @@ header .navbar ul li a:hover {
   box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
   font-family: "Nunito", sans-serif;
 }
+#lol2{
+  color: #940808;
+}
 #lol{
   font-family: initial;
-  color: #6f4827;
+  color: black;
 }
 .home .btn span {
   font-weight: 700;
