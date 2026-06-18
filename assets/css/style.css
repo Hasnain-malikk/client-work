@@ -22,7 +22,7 @@ body {
 }
 
 *::selection {
-  background: #6F4827;
+  background: #2506ad;
   color: #fff;
 }
 
@@ -117,8 +117,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #6F4827;
-  border-bottom: 0.2rem solid #6F4827;
+  color: #2506ad;
+  border-bottom: 0.2rem solid #2506ad;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -167,7 +167,7 @@ header .navbar ul li a:hover {
     padding: 1rem;
     color: #fff;
     border-radius: 0.5rem;
-    border-bottom: 0.5rem solid #6F4827;
+    border-bottom: 0.5rem solid #2506ad;
   }
   .fa-times {
     transform: rotate(180deg);
@@ -222,14 +222,14 @@ header .navbar ul li a:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 #polo{
-  font-family: initial;
+  font-family:"Poppins";
   font-size: 4rem;
   color: black;
 
 }
 .home .content h2 {
   /* font-family: 'Great Vibes', cursive; */
-  font-family: initial;
+  font-family: "Poppins";
   font-size: 4rem;
   font-weight: 800;
   color: black;
@@ -238,7 +238,7 @@ header .navbar ul li a:hover {
 .home .content h2 span {
   /* font-family: 'Great Vibes', cursive; */
   /* font-family: "Birds of Paradise", cursive; */
-  font-family: initial;
+  font-family: "Poppins";
   font-size: 4rem;
   font-weight: 800;
   color: black;
@@ -254,7 +254,7 @@ header .navbar ul li a:hover {
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: #6f4827;
+  color: #2506ad;
   font-weight: 600;
   padding: 1rem 0;
 }
@@ -430,8 +430,8 @@ header .navbar ul li a:hover {
   border-radius: 0.5em;
   transition: 0.3s;
   color: #fff;
-  background: #6F4827;
-  box-shadow: 0px 5px 10px rgba(111, 72, 39, 0.6);
+  background: #2506ad;
+  box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
   font-family: "Nunito", sans-serif;
 }
 .resumebtn .btn span {
